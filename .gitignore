@@ -18,5 +18,5 @@ inline
 # ignore all .pdf files
 *.pdf
 
-# ignore all .xlsx files
-*.xlsx
+# ignore all .npy files
+*.npy
